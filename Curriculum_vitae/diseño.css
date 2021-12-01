@@ -1,0 +1,30 @@
+
+.perfil
+{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+
+.titulo
+{
+    display: block;
+    text-align: center;
+    margin: 2px;
+    padding: 2px;
+    color: black;
+    font-family: "Cambria";
+    background-color: rgba(255, 255, 255, 0.616);
+}
+
+.cuerpo
+{
+    display: block;
+    text-align: left;
+    text-decoration: none;
+    margin: 6px;
+    padding: 6px;
+    color: black;
+    font-family: "Cambria";
+    font-size: 1.2rem;
+}
